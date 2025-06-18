@@ -1,9 +1,6 @@
 # 📘 TypeScript Tutorial – Topics Covered
 Explore the essential concepts of TypeScript from beginner to advanced level:
 
-
-
-
 # 📗 Basic Types
 ✅ Primitive Types (string, number, boolean, etc.)
 
